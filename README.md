@@ -86,8 +86,6 @@ incident investigation and Blue Team operations.
 
 ## Connect
 
-GitHub:
-https://github.com/YOUR_USERNAME
+GitHub: github.com/Adorn-06
 
-LinkedIn:
-https://www.linkedin.com/in/YOUR_USERNAME/
+LinkedIn:www.linkedin.com/in/adorn-
