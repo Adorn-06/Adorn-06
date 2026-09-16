@@ -15,7 +15,7 @@
           content="Adorn Cyriac Mathew">
 
     <title>
-        Adorn Cyriac Mathew | Cybersecurity Portfolio
+        Adorn Cyriac Mathew |
     </title>
 
 
