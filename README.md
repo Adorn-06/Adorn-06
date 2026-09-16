@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Adorn Cyriac Mathew
+#  Hi, I'm Adorn Cyriac Mathew
 
 ### Cybersecurity Researcher | Aspiring SOC Analyst
 
-## 🛡️ About Me
+## * About Me *
 
 I am a cybersecurity researcher with a **Bachelor of Computer Applications (BCA)** and **EC-Council Certified SOC Analyst (C|CSA)** certification.
 
