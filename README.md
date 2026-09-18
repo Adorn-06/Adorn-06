@@ -130,8 +130,9 @@ I have worked with **Wazuh** and **Microsoft Sentinel** in lab environments, foc
 
 ## 🎓 Education & Certification
 
-* 🎓 Bachelor of Computer Applications (BCA) | Indira Gandhi College of Arts and Science
-* 🛡️ EC-Council Certified SOC Analyst — C|CSA
+*  Bachelor of Computer Applications (BCA) | Indira Gandhi College of Arts and Science
+*  Certified SOC Analyst (CSA v2) | EC-Council
+*  Certified IT Infrastructure & Cyber SOC Analyst (CICSA v3) | Red Team Hacker Academy
 
 ---
 
