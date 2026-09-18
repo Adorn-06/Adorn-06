@@ -127,68 +127,15 @@ I have worked with **Wazuh** and **Microsoft Sentinel** in lab environments, foc
 
 ---
 
+
 ## 🎓 Education & Certification
 
-### 🎓 Bachelor of Computer Applications — BCA
+### 🎓 * Bachelor of Computer Applications (BCA)
 
-**[College Name]**
-[University Name, if applicable]
-📅 **[Start Year] – [Graduation Year]**
 
-Bachelor of Computer Applications with an academic foundation in computer applications, programming, databases, networking, operating systems, and information technology.
 
-**Relevant Areas:**
 
-* Computer Networks
-* Operating Systems
-* Database Management Systems
-* Programming
-* Computer Security
-* Web Technologies
-* Software Engineering
 
----
-
-### 🛡️ EC-Council Certified SOC Analyst — C|CSA
-
-**EC-Council**
-📅 **[Month Year] – [Month Year / Completed: Year]**
-
-Professional cybersecurity certification focused on Security Operations Center fundamentals and practical security monitoring.
-
-**Key Areas:**
-
-* SOC Operations
-* SIEM & Security Monitoring
-* Security Event Analysis
-* Alert Triage
-* Threat Detection
-* Incident Response
-* Log Analysis
-* Network Security Monitoring
-* Threat Intelligence Fundamentals
-* MITRE ATT&CK Framework
-
----
-## 🎓 Education & Certification
-
-### 🎓 Bachelor of Computer Applications — BCA
-
-**[College Name]**
-[University Name, if applicable]
-📅 **[Start Year] – [Graduation Year]**
-
-Bachelor of Computer Applications with an academic foundation in computer applications, programming, databases, networking, operating systems, and information technology.
-
-**Relevant Areas:**
-
-* Computer Networks
-* Operating Systems
-* Database Management Systems
-* Programming
-* Computer Security
-* Web Technologies
-* Software Engineering
 
 ---
 
