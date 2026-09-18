@@ -130,37 +130,10 @@ I have worked with **Wazuh** and **Microsoft Sentinel** in lab environments, foc
 
 ## 🎓 Education & Certification
 
-* 🎓 Bachelor of Computer Applications (BCA)
-
-
-
-
-
+* 🎓 Bachelor of Computer Applications (BCA) | Indira Gandhi College of Arts and Science
+* 🛡️ EC-Council Certified SOC Analyst — C|CSA
 
 ---
-
-### 🛡️ EC-Council Certified SOC Analyst — C|CSA
-
-**EC-Council**
-📅 **[Month Year] – [Month Year / Completed: Year]**
-
-Professional cybersecurity certification focused on Security Operations Center fundamentals and practical security monitoring.
-
-**Key Areas:**
-
-* SOC Operations
-* SIEM & Security Monitoring
-* Security Event Analysis
-* Alert Triage
-* Threat Detection
-* Incident Response
-* Log Analysis
-* Network Security Monitoring
-* Threat Intelligence Fundamentals
-* MITRE ATT&CK Framework
-
----
-
 
 ## 📚 Currently Building Skills In
 
