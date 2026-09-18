@@ -130,7 +130,7 @@ I have worked with **Wazuh** and **Microsoft Sentinel** in lab environments, foc
 
 ## 🎓 Education & Certification
 
-### 🎓 * Bachelor of Computer Applications (BCA)
+🎓 * Bachelor of Computer Applications (BCA)
 
 
 
