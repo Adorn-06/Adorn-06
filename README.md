@@ -114,17 +114,14 @@ I have worked with **Wazuh** and **Microsoft Sentinel** in lab environments, foc
 
 ### ☁️ Microsoft Sentinel SOC Lab
 
-**Environment:** Windows / Microsoft Sentinel
+**Environment:** Windows / Microsoft Azure / Microsoft Sentinel
 
-* Configured **Microsoft Sentinel** for cloud-based security monitoring.
-* Worked with Windows security telemetry and event data.
-* Created and tested **scheduled analytics rules**.
-* Investigated authentication and process-related security events.
-* Analyzed Windows Event IDs including **4625 and 4688**.
-* Performed investigation of failed logons and suspicious command execution.
-* Used **Kusto Query Language (KQL)** for security-event analysis.
-* Explored MITRE ATT&CK mappings and SOC investigation workflows.
-
+* Configured a Microsoft Sentinel lab using an Azure resource group, Log Analytics workspace, and Windows security data collection.
+* Connected the Windows endpoint using **Azure Arc** and configured the **Azure Monitor Agent** and **Data Collection Rule (DCR)** to collect security events.
+* Created and tested four individual **KQL-based scheduled analytics rules** to detect remote brute-force attempts, privilege escalation attempts, defense-evasion commands, and discovery command execution.
+* Analyzed Windows Security Events, including **Event IDs 4625 and 4688**, where relevant to authentication failures and process creation.
+* Used **Kusto Query Language (KQL)** to query and investigate Windows security telemetry and identify suspicious activity.
+* Explored alert investigation workflows and mapped relevant detection scenarios to the **MITRE ATT&CK framework**.
 ---
 
 
